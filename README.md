@@ -5,6 +5,8 @@ lets know how much the student knows after 3 weeks at moringa... the competition
 # Demo
 Here is a live link to the webpage (https://github.com/soulo3760?tab=repositories/)
 
+Setup/Installation Requirements
+javascript enabled webbrowsers
 
 #Behavior Driven Development
 
@@ -25,8 +27,8 @@ languages and tools:
 #Prerequisites
 Basic knowledge on git navigation
 
-#Author
 
-*Author: SOulo370 solomioro@gmail.com
+#Author
+*Author: SOulo370 solomioro@gmail.com +
 *Date: Sunday 25 feb 2019
-License MIT
+*License MIT(c) 2019 Github. Inc
