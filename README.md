@@ -1,18 +1,20 @@
-#PROJECT TITLE
+# PROJECT TITLE
 ONline QUIZ
-#PROJECT DESCRIPTION
+# PROJECT DESCRIPTION
 lets know how much the student knows after 3 weeks at moringa... the competition is stiff among the students, only the best can make the cut point
 # Demo
 Here is a live link to the webpage (https://github.com/soulo3760?tab=repositories/)
 
+Setup/Installation Requirements
+javascript enabled webbrowsers
 
-#Behavior Driven Development
+# Behavior Driven Development
 
 student answers the quiz and selects best answer based on multiple choices.
 there are 4 questions
 program cannot runs only after the user answers all question. otherwise they are returned to the quiz unaswered.
 
-#Tech
+# Tech
 languages and tools:
 
 ~ HTML- HTML
@@ -22,11 +24,11 @@ languages and tools:
 ~JQUERY -
 ~bootstrap.
 
-#Prerequisites
+# Prerequisites
 Basic knowledge on git navigation
 
-#Author
 
-*Author: SOulo370 solomioro@gmail.com
+# Author
+*Author: SOulo370 solomioro@gmail.com +
 *Date: Sunday 25 feb 2019
-License MIT
+*License MIT(c) 2019 Github. Inc
